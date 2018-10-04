@@ -1,0 +1,10 @@
+
+
+.storyImg {
+	height: 200px;
+	width: 200px;
+	padding: 0;
+	/*border: 1px solid #060508;*/
+	box-shadow: 0 5px 10px -2px rgba(0,0,0,.2);
+}
+
